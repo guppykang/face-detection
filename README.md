@@ -5,4 +5,4 @@ Open Jupyterhub preferably with Anaconda, and run notebook. Python video window 
 
 
 Future projects: attach this to a raspberry pi with camera on my self driving drone to classify people.
-Hi mom 
+Hi mom test
